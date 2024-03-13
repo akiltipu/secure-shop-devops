@@ -1,5 +1,5 @@
 
-945102814129.dkr.ecr.us-east-1.amazonaws.com/secure-shop-app:36 (alpine 3.7.0)
+************.dkr.ecr.us-east-1.amazonaws.com/secure-shop-app:36 (alpine 3.7.0)
 ==============================================================================
 Total: 338 (UNKNOWN: 0, LOW: 140, MEDIUM: 140, HIGH: 43, CRITICAL: 15)
 
